@@ -1,0 +1,4 @@
+Wed May 29 15:28:10 2024
+ERROR: Load model error: Error: could not open STL file 'assets/meshes/trunk.STL'
+Object name = trunk, id = 0, line = 0, column = -1
+
